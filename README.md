@@ -4,10 +4,17 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572b6)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-StyleComponent-05122A?style=flat&logo=styled-components)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=7747bc)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=e0234e)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
 
 
 
