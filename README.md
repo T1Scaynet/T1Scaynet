@@ -1,13 +1,13 @@
-@<p  align="center">
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
 <h2 align="center"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 <p>
 
-<a href="">![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)</a>
-<a mailto="gustavochura@gmail.com">![Gmail](https://img.shields.io/badge/-gustavochura94@gmail.ocm-05122A?style=flat&logo=gmail)</a>
-<a href="">![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)</a>
+<a href="https://www.linkedin.com/in/gustavo-chura/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0a66c2)</a>
+<a href="mailto:gustavochura@gmail.com">![Gmail](https://img.shields.io/badge/-gustavochura94@gmail.ocm-05122A?style=flat&logo=gmail)</a>
+<a href="https://twitter.com/T1Scaynet">![Twitter](https://img.shields.io/badge/-T1Scaynet-05122A?style=flat&logo=twitter)</a>
 
 
 <p  align="center">
