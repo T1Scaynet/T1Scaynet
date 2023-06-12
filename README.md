@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Chura</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h4 align="center">I am a software engineer, and I love my job. I get to use my creativity and problem-solving skills to build things that people use every day. I also get to work with a team of talented engineers who are passionate about making a difference in the world.</h4>
 
-- 🔭 This are my two first projects [Henry App Dogs](https://github.com/T1Scaynet/PI-DOGS) | [Shelter](https://github.com/T1Scaynet/FE-Shelter)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
